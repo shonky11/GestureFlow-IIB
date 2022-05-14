@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_erase"
+        android:title="erase"
+        android:icon="@drawable/ic_baseline_carpenter_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_undo"
+        android:title="undo"
+        android:icon="@drawable/ic_baseline_undo_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_brush"
+        android:title="brush"
+        android:icon="@drawable/ic_baseline_brush_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_color"
+        android:title="color"
+        android:icon="@drawable/ic_baseline_color_lens_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_save"
+        android:title="save"
+        android:icon="@drawable/ic_baseline_save_24"
+        app:showAsAction="always" />
+</menu>

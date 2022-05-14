@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876827934622",
+    "project_id": "gesture-capture",
+    "storage_bucket": "gesture-capture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876827934622:android:7b8328d11475ecf624e08f",
+        "android_client_info": {
+          "package_name": "tripos.partIIB.gesturecapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876827934622-kbg2gs5ahvnn48ulect466ermgub8dat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tripos.partIIB.gesturecapture",
+            "certificate_hash": "5ee629672a42bfc03a65f730ce838c66c81d5253"
+          }
+        },
+        {
+          "client_id": "876827934622-rhb28uc9f7khmskbc7no8bjrrv10rgm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhGgorrZAa4Xz5d4fC_jvc1lyr0DCaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876827934622-rhb28uc9f7khmskbc7no8bjrrv10rgm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
